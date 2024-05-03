@@ -1,0 +1,17 @@
+.btn-black {
+    color: #fff; 
+    background-color: #000; 
+    border-color: #000; 
+}
+
+.btn--bs-dark-bg-subtle {
+    background-color: #343a40; 
+    color: #fff; 
+    border-color: #343a40; 
+}
+
+.btn--bs-dark-bg-subtle:hover {
+    background-color: #212529; 
+    border-color: #212529; 
+}
+
